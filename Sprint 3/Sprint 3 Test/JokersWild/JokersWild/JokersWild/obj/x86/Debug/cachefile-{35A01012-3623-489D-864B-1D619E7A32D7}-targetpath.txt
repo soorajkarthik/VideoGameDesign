@@ -1,0 +1,8 @@
+Content\10ofSpades.xnb
+Content\AceofDiamonds.xnb
+Content\Card Back.xnb
+Content\JackofHearts.xnb
+Content\Joker#1.xnb
+Content\foghorn.xnb
+Content\Ovation.xnb
+Content\SpriteFont1.xnb

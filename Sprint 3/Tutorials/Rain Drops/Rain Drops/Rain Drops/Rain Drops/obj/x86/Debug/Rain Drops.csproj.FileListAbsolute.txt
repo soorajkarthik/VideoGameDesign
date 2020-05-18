@@ -1,0 +1,14 @@
+C:\Users\pageg\Desktop\Rain Drops\Rain Drops\Rain Drops\bin\x86\Debug\Rain Drops.exe
+C:\Users\pageg\Desktop\Rain Drops\Rain Drops\Rain Drops\bin\x86\Debug\Rain Drops.pdb
+C:\Users\pageg\Desktop\Rain Drops\Rain Drops\Rain Drops\obj\x86\Debug\Rain Drops.csprojResolveAssemblyReference.cache
+C:\Users\pageg\Desktop\Rain Drops\Rain Drops\Rain Drops\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pageg\Desktop\Rain Drops\Rain Drops\Rain Drops\obj\x86\Debug\Rain Drops.exe
+C:\Users\pageg\Desktop\Rain Drops\Rain Drops\Rain Drops\obj\x86\Debug\Rain Drops.pdb
+C:\Users\pageg\Desktop\Rain Drops\Rain Drops\Rain Drops\bin\x86\Debug\Content\rain drop.xnb
+E:\_Games\___ PROGRAMMING TEXT\10 - Mouse Control\Rain Drops\Rain Drops\Rain Drops\bin\x86\Debug\Content\rain drop.xnb
+E:\_Games\___ PROGRAMMING TEXT\10 - Mouse Control\Rain Drops\Rain Drops\Rain Drops\bin\x86\Debug\Rain Drops.exe
+E:\_Games\___ PROGRAMMING TEXT\10 - Mouse Control\Rain Drops\Rain Drops\Rain Drops\bin\x86\Debug\Rain Drops.pdb
+E:\_Games\___ PROGRAMMING TEXT\10 - Mouse Control\Rain Drops\Rain Drops\Rain Drops\obj\x86\Debug\Rain Drops.csprojResolveAssemblyReference.cache
+E:\_Games\___ PROGRAMMING TEXT\10 - Mouse Control\Rain Drops\Rain Drops\Rain Drops\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\_Games\___ PROGRAMMING TEXT\10 - Mouse Control\Rain Drops\Rain Drops\Rain Drops\obj\x86\Debug\Rain Drops.exe
+E:\_Games\___ PROGRAMMING TEXT\10 - Mouse Control\Rain Drops\Rain Drops\Rain Drops\obj\x86\Debug\Rain Drops.pdb

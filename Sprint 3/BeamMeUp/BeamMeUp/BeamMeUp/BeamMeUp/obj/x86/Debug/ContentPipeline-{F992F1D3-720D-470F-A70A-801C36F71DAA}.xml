@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>alert10.wav</Source>
+      <Name>alert10</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\alert10.xnb</Output>
+      <Time>2019-10-13T16:49:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>autodestructsequencearmed_ep.wav</Source>
+      <Name>autodestructsequencearmed_ep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\autodestructsequencearmed_ep.xnb</Output>
+      <Time>2019-10-13T16:49:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>borg_cut_clean.wav</Source>
+      <Name>borg_cut_clean</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\borg_cut_clean.xnb</Output>
+      <Time>2019-10-13T16:49:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>commandcodesverified_ep.wav</Source>
+      <Name>commandcodesverified_ep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\commandcodesverified_ep.xnb</Output>
+      <Time>2019-10-13T16:49:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ds9_door.wav</Source>
+      <Name>ds9_door</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\ds9_door.xnb</Output>
+      <Time>2019-10-13T16:49:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>klingon_torpedo_clean.wav</Source>
+      <Name>klingon_torpedo_clean</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\klingon_torpedo_clean.xnb</Output>
+      <Time>2019-10-13T16:49:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>startrek.jpg</Source>
+      <Name>startrek</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\startrek.xnb</Output>
+      <Time>2019-10-13T16:49:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2019-10-13T16:49:34-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{F992F1D3-720D-470F-A70A-801C36F71DAA}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUpContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-04-04T09:45:30.5725129-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

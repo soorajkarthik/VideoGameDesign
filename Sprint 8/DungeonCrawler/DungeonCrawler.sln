@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonCrawler", "DungeonCrawler\DungeonCrawler\DungeonCrawler.csproj", "{7C047FC4-79DD-487F-839B-FE7C38CD7BEF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "DungeonCrawlerContent", "DungeonCrawler\DungeonCrawlerContent\DungeonCrawlerContent.contentproj", "{02D8F25E-A24F-4595-958A-640106FD8213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C047FC4-79DD-487F-839B-FE7C38CD7BEF}.Debug|x86.ActiveCfg = Debug|x86
+		{7C047FC4-79DD-487F-839B-FE7C38CD7BEF}.Debug|x86.Build.0 = Debug|x86
+		{7C047FC4-79DD-487F-839B-FE7C38CD7BEF}.Release|x86.ActiveCfg = Release|x86
+		{7C047FC4-79DD-487F-839B-FE7C38CD7BEF}.Release|x86.Build.0 = Release|x86
+		{02D8F25E-A24F-4595-958A-640106FD8213}.Debug|x86.ActiveCfg = Debug|x86
+		{02D8F25E-A24F-4595-958A-640106FD8213}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

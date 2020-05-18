@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bb.png</Source>
+      <Name>bb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\bin\x86\Debug\Content\bb.xnb</Output>
+      <Time>2019-12-09T17:27:40.8551204-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bc.png</Source>
+      <Name>bc</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\bin\x86\Debug\Content\bc.xnb</Output>
+      <Time>2019-12-09T17:27:40.8561619-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bki.png</Source>
+      <Name>bki</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\bin\x86\Debug\Content\bki.xnb</Output>
+      <Time>2019-12-09T17:27:40.8571462-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bkn.png</Source>
+      <Name>bkn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\bin\x86\Debug\Content\bkn.xnb</Output>
+      <Time>2019-12-09T17:27:40.8581452-06:00</Time>
+    </Item>
+    <Item>
+      <Source>board.png</Source>
+      <Name>board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\bin\x86\Debug\Content\board.xnb</Output>
+      <Time>2019-12-09T17:27:40.8541229-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bp.png</Source>
+      <Name>bp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\bin\x86\Debug\Content\bp.xnb</Output>
+      <Time>2019-12-09T17:27:40.8601631-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bq.png</Source>
+      <Name>bq</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\bin\x86\Debug\Content\bq.xnb</Output>
+      <Time>2019-12-09T17:27:40.8611389-06:00</Time>
+    </Item>
+    <Item>
+      <Source>wb.png</Source>
+      <Name>wb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\bin\x86\Debug\Content\wb.xnb</Output>
+      <Time>2019-12-09T17:27:40.8621349-06:00</Time>
+    </Item>
+    <Item>
+      <Source>wc.png</Source>
+      <Name>wc</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\bin\x86\Debug\Content\wc.xnb</Output>
+      <Time>2019-12-09T17:27:40.8631327-06:00</Time>
+    </Item>
+    <Item>
+      <Source>wki.png</Source>
+      <Name>wki</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\bin\x86\Debug\Content\wki.xnb</Output>
+      <Time>2019-12-09T17:27:40.8641297-06:00</Time>
+    </Item>
+    <Item>
+      <Source>wkn.png</Source>
+      <Name>wkn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\bin\x86\Debug\Content\wkn.xnb</Output>
+      <Time>2019-12-09T17:27:40.8651275-06:00</Time>
+    </Item>
+    <Item>
+      <Source>wp.png</Source>
+      <Name>wp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\bin\x86\Debug\Content\wp.xnb</Output>
+      <Time>2019-12-09T17:27:40.866125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>wq.png</Source>
+      <Name>wq</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\bin\x86\Debug\Content\wq.xnb</Output>
+      <Time>2019-12-09T17:27:40.8531259-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5B9F11C2-80B2-4349-9E7D-61F161ED60D2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoardContent\</RootDirectory>
+      <LoggerRootDirectory>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\</LoggerRootDirectory>
+      <IntermediateDirectory>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\ChessBoard\ChessBoard\ChessBoard\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-09-10T17:11:43.0809587-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

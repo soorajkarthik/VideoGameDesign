@@ -1,0 +1,3 @@
+S:\Users\Sooraj\Desktop\Visual Studio Projects\CastleMania\CastleMania\CastleManiaContent\obj\x86\Debug\CastleManiaContent.contentprojResolveAssemblyReference.cache
+F:\CastleMania\CastleMania\CastleManiaContent\obj\x86\Debug\CastleManiaContent.contentprojResolveAssemblyReference.cache
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleManiaContent\obj\x86\Debug\CastleManiaContent.contentprojResolveAssemblyReference.cache

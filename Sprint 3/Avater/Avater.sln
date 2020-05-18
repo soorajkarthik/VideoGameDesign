@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avater", "Avater\Avater\Avater.csproj", "{5ECA9AE9-E366-4F35-BCB3-1874C3439A5E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "AvaterContent", "Avater\AvaterContent\AvaterContent.contentproj", "{DA6B1A89-1739-4800-A815-1211F555CB5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ECA9AE9-E366-4F35-BCB3-1874C3439A5E}.Debug|x86.ActiveCfg = Debug|x86
+		{5ECA9AE9-E366-4F35-BCB3-1874C3439A5E}.Debug|x86.Build.0 = Debug|x86
+		{5ECA9AE9-E366-4F35-BCB3-1874C3439A5E}.Release|x86.ActiveCfg = Release|x86
+		{5ECA9AE9-E366-4F35-BCB3-1874C3439A5E}.Release|x86.Build.0 = Release|x86
+		{DA6B1A89-1739-4800-A815-1211F555CB5F}.Debug|x86.ActiveCfg = Debug|x86
+		{DA6B1A89-1739-4800-A815-1211F555CB5F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

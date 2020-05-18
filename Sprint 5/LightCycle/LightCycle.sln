@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightCycle", "LightCycle\LightCycle\LightCycle.csproj", "{C7677F7C-0CBE-410A-803C-D0A0EA5A3F02}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "LightCycleContent", "LightCycle\LightCycleContent\LightCycleContent.contentproj", "{C843FAC7-DD6C-4F0E-A8FC-298AD51859A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7677F7C-0CBE-410A-803C-D0A0EA5A3F02}.Debug|x86.ActiveCfg = Debug|x86
+		{C7677F7C-0CBE-410A-803C-D0A0EA5A3F02}.Debug|x86.Build.0 = Debug|x86
+		{C7677F7C-0CBE-410A-803C-D0A0EA5A3F02}.Release|x86.ActiveCfg = Release|x86
+		{C7677F7C-0CBE-410A-803C-D0A0EA5A3F02}.Release|x86.Build.0 = Release|x86
+		{C843FAC7-DD6C-4F0E-A8FC-298AD51859A5}.Debug|x86.ActiveCfg = Debug|x86
+		{C843FAC7-DD6C-4F0E-A8FC-298AD51859A5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

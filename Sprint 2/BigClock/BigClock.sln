@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigClock", "BigClock\BigClock\BigClock.csproj", "{8499AD18-42BD-4A02-A31D-912945F5D43D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BigClockContent", "BigClock\BigClockContent\BigClockContent.contentproj", "{AA278AA6-01BB-4E12-BDED-4D60C6DD21A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8499AD18-42BD-4A02-A31D-912945F5D43D}.Debug|x86.ActiveCfg = Debug|x86
+		{8499AD18-42BD-4A02-A31D-912945F5D43D}.Debug|x86.Build.0 = Debug|x86
+		{8499AD18-42BD-4A02-A31D-912945F5D43D}.Release|x86.ActiveCfg = Release|x86
+		{8499AD18-42BD-4A02-A31D-912945F5D43D}.Release|x86.Build.0 = Release|x86
+		{AA278AA6-01BB-4E12-BDED-4D60C6DD21A4}.Debug|x86.ActiveCfg = Debug|x86
+		{AA278AA6-01BB-4E12-BDED-4D60C6DD21A4}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

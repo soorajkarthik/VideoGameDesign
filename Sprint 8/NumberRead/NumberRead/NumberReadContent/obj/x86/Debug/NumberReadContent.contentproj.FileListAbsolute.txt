@@ -1,0 +1,2 @@
+F:\Code\Visual Studio Projects\Sprint 8\NumberRead\NumberRead\NumberReadContent\obj\x86\Debug\NumberReadContent.contentprojResolveAssemblyReference.cache
+D:\Code\Visual Studio Projects\Sprint 8\NumberRead\NumberRead\NumberReadContent\obj\x86\Debug\NumberReadContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+Content\Tiles\Blocks.xnb
+Content\Tiles\Platforms.xnb
+Content\Sprites\Player\player.xnb
+Content\Sprites\Enemy\muffinman.xnb
+Content\Sprites\Collectable\scribbles.xnb
+Content\SpriteFont1.xnb
+Content\Levels\Level01.txt
+Content\Levels\Level02.txt
+Content\Levels\Level03.txt

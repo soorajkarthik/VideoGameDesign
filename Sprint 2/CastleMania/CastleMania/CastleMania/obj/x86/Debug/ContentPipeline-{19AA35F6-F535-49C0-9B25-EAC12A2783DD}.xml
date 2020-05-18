@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>archer.png</Source>
+      <Name>archer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\archer.xnb</Output>
+      <Time>2019-09-26T21:15:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>arrow.png</Source>
+      <Name>arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\arrow.xnb</Output>
+      <Time>2019-09-26T21:15:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>deadArcher.png</Source>
+      <Name>deadArcher</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\deadArcher.xnb</Output>
+      <Time>2019-09-26T21:15:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>deadKing.png</Source>
+      <Name>deadKing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\deadKing.xnb</Output>
+      <Time>2019-09-26T21:15:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>herald.png</Source>
+      <Name>herald</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\herald.xnb</Output>
+      <Time>2019-09-26T21:15:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>king.png</Source>
+      <Name>king</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\king.xnb</Output>
+      <Time>2019-09-26T21:15:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>knight.png</Source>
+      <Name>knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\knight.xnb</Output>
+      <Time>2019-09-26T21:15:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>scene.jpg</Source>
+      <Name>scene</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\scene.xnb</Output>
+      <Time>2019-09-26T21:15:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>carriage.png</Source>
+      <Name>carriage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\carriage.xnb</Output>
+      <Time>2019-09-26T21:29:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2019-09-27T07:25:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>person.png</Source>
+      <Name>person</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\person.xnb</Output>
+      <Time>2019-09-27T11:21:16.8859684-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{19AA35F6-F535-49C0-9B25-EAC12A2783DD}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleManiaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleMania\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleMania\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 2\CastleMania\CastleMania\CastleMania\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-04-04T09:45:30.5725129-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

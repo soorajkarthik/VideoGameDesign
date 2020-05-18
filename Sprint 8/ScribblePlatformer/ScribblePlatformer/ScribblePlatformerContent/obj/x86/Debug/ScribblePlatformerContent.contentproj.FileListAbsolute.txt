@@ -1,0 +1,3 @@
+F:\Code\Visual Studio Projects\Sprint 8\ScribblePlatformer\ScribblePlatformer\ScribblePlatformerContent\obj\x86\Debug\ScribblePlatformerContent.contentprojResolveAssemblyReference.cache
+D:\Code\Visual Studio Projects\Sprint 8\ScribblePlatformer\ScribblePlatformer\ScribblePlatformerContent\obj\x86\Debug\ScribblePlatformerContent.contentprojResolveAssemblyReference.cache
+S:\Users\Sooraj\Desktop\Code\Visual Studio Projects\Sprint 8\ScribblePlatformer\ScribblePlatformer\ScribblePlatformerContent\obj\x86\Debug\ScribblePlatformerContent.contentprojResolveAssemblyReference.cache

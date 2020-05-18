@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Tiles\Blocks.png</Source>
+      <Name>Tiles\Blocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Code\Visual Studio Projects\Sprint 8\ScribblePlatformer\ScribblePlatformer\ScribblePlatformer\bin\x86\Debug\Content\Tiles\Blocks.xnb</Output>
+      <Time>2020-02-10T07:56:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Platforms.png</Source>
+      <Name>Tiles\Platforms</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Code\Visual Studio Projects\Sprint 8\ScribblePlatformer\ScribblePlatformer\ScribblePlatformer\bin\x86\Debug\Content\Tiles\Platforms.xnb</Output>
+      <Time>2020-02-10T07:56:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\player.png</Source>
+      <Name>Sprites\Player\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Code\Visual Studio Projects\Sprint 8\ScribblePlatformer\ScribblePlatformer\ScribblePlatformer\bin\x86\Debug\Content\Sprites\Player\player.xnb</Output>
+      <Time>2020-02-11T07:47:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\muffinman.png</Source>
+      <Name>Sprites\Enemy\muffinman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Code\Visual Studio Projects\Sprint 8\ScribblePlatformer\ScribblePlatformer\ScribblePlatformer\bin\x86\Debug\Content\Sprites\Enemy\muffinman.xnb</Output>
+      <Time>2020-02-11T07:47:48-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Collectable\scribbles.png</Source>
+      <Name>Sprites\Collectable\scribbles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Code\Visual Studio Projects\Sprint 8\ScribblePlatformer\ScribblePlatformer\ScribblePlatformer\bin\x86\Debug\Content\Sprites\Collectable\scribbles.xnb</Output>
+      <Time>2020-02-12T16:36:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Code\Visual Studio Projects\Sprint 8\ScribblePlatformer\ScribblePlatformer\ScribblePlatformer\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2020-02-14T09:14:20-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{48AC9E49-A277-45BC-843B-6237ECBFD172}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>S:\Users\Sooraj\Desktop\Code\Visual Studio Projects\Sprint 8\ScribblePlatformer\ScribblePlatformer\ScribblePlatformerContent\</RootDirectory>
+      <LoggerRootDirectory>S:\Users\Sooraj\Desktop\Code\Visual Studio Projects\Sprint 8\ScribblePlatformer\ScribblePlatformer\ScribblePlatformer\</LoggerRootDirectory>
+      <IntermediateDirectory>S:\Users\Sooraj\Desktop\Code\Visual Studio Projects\Sprint 8\ScribblePlatformer\ScribblePlatformer\ScribblePlatformer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>S:\Users\Sooraj\Desktop\Code\Visual Studio Projects\Sprint 8\ScribblePlatformer\ScribblePlatformer\ScribblePlatformer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-09-10T17:11:43.0809587-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

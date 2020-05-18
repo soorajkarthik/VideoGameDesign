@@ -1,0 +1,11 @@
+Content\archer.xnb
+Content\arrow.xnb
+Content\deadArcher.xnb
+Content\deadKing.xnb
+Content\herald.xnb
+Content\king.xnb
+Content\knight.xnb
+Content\scene.xnb
+Content\carriage.xnb
+Content\SpriteFont1.xnb
+Content\person.xnb

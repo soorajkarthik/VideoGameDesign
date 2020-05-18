@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>c01.png</Source>
+      <Name>c01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\c01.xnb</Output>
+      <Time>2019-12-09T19:19:07.3047568-06:00</Time>
+    </Item>
+    <Item>
+      <Source>c02.png</Source>
+      <Name>c02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\c02.xnb</Output>
+      <Time>2019-12-09T19:19:07.305755-06:00</Time>
+    </Item>
+    <Item>
+      <Source>c03.png</Source>
+      <Name>c03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\c03.xnb</Output>
+      <Time>2019-12-09T19:19:07.3077481-06:00</Time>
+    </Item>
+    <Item>
+      <Source>c04.png</Source>
+      <Name>c04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\c04.xnb</Output>
+      <Time>2019-12-09T19:19:07.3087452-06:00</Time>
+    </Item>
+    <Item>
+      <Source>c05.png</Source>
+      <Name>c05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\c05.xnb</Output>
+      <Time>2019-12-09T19:19:07.3097424-06:00</Time>
+    </Item>
+    <Item>
+      <Source>c06.png</Source>
+      <Name>c06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\c06.xnb</Output>
+      <Time>2019-12-09T19:19:07.3117386-06:00</Time>
+    </Item>
+    <Item>
+      <Source>c07.png</Source>
+      <Name>c07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\c07.xnb</Output>
+      <Time>2019-12-09T19:19:07.3127347-06:00</Time>
+    </Item>
+    <Item>
+      <Source>c08.png</Source>
+      <Name>c08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\c08.xnb</Output>
+      <Time>2019-12-09T19:19:07.3137321-06:00</Time>
+    </Item>
+    <Item>
+      <Source>c09.png</Source>
+      <Name>c09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\c09.xnb</Output>
+      <Time>2019-12-09T19:19:07.3147291-06:00</Time>
+    </Item>
+    <Item>
+      <Source>c10.png</Source>
+      <Name>c10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\c10.xnb</Output>
+      <Time>2019-12-09T19:19:07.3167244-06:00</Time>
+    </Item>
+    <Item>
+      <Source>c11.png</Source>
+      <Name>c11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\c11.xnb</Output>
+      <Time>2019-12-09T19:19:07.3177216-06:00</Time>
+    </Item>
+    <Item>
+      <Source>c12.png</Source>
+      <Name>c12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\c12.xnb</Output>
+      <Time>2019-12-09T19:19:07.318719-06:00</Time>
+    </Item>
+    <Item>
+      <Source>c13.png</Source>
+      <Name>c13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\c13.xnb</Output>
+      <Time>2019-12-09T19:19:07.3207139-06:00</Time>
+    </Item>
+    <Item>
+      <Source>d01.png</Source>
+      <Name>d01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\d01.xnb</Output>
+      <Time>2019-12-09T19:19:07.3217101-06:00</Time>
+    </Item>
+    <Item>
+      <Source>d02.png</Source>
+      <Name>d02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\d02.xnb</Output>
+      <Time>2019-12-09T19:19:07.3227072-06:00</Time>
+    </Item>
+    <Item>
+      <Source>d03.png</Source>
+      <Name>d03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\d03.xnb</Output>
+      <Time>2019-12-09T19:19:07.3237052-06:00</Time>
+    </Item>
+    <Item>
+      <Source>d04.png</Source>
+      <Name>d04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\d04.xnb</Output>
+      <Time>2019-12-09T19:19:07.3257005-06:00</Time>
+    </Item>
+    <Item>
+      <Source>d05.png</Source>
+      <Name>d05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\d05.xnb</Output>
+      <Time>2019-12-09T19:19:07.3266977-06:00</Time>
+    </Item>
+    <Item>
+      <Source>d06.png</Source>
+      <Name>d06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\d06.xnb</Output>
+      <Time>2019-12-09T19:19:07.3276951-06:00</Time>
+    </Item>
+    <Item>
+      <Source>d07.png</Source>
+      <Name>d07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\d07.xnb</Output>
+      <Time>2019-12-09T19:19:07.3286921-06:00</Time>
+    </Item>
+    <Item>
+      <Source>d08.png</Source>
+      <Name>d08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\d08.xnb</Output>
+      <Time>2019-12-09T19:19:07.3296892-06:00</Time>
+    </Item>
+    <Item>
+      <Source>d09.png</Source>
+      <Name>d09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\d09.xnb</Output>
+      <Time>2019-12-09T19:19:07.3316841-06:00</Time>
+    </Item>
+    <Item>
+      <Source>d10.png</Source>
+      <Name>d10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\d10.xnb</Output>
+      <Time>2019-12-09T19:19:07.3326823-06:00</Time>
+    </Item>
+    <Item>
+      <Source>d11.png</Source>
+      <Name>d11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\d11.xnb</Output>
+      <Time>2019-12-09T19:19:07.3336784-06:00</Time>
+    </Item>
+    <Item>
+      <Source>d12.png</Source>
+      <Name>d12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\d12.xnb</Output>
+      <Time>2019-12-09T19:19:07.3356741-06:00</Time>
+    </Item>
+    <Item>
+      <Source>d13.png</Source>
+      <Name>d13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\d13.xnb</Output>
+      <Time>2019-12-09T19:19:07.336671-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h01.png</Source>
+      <Name>h01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\h01.xnb</Output>
+      <Time>2019-12-09T19:19:07.3376687-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h02.png</Source>
+      <Name>h02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\h02.xnb</Output>
+      <Time>2019-12-09T19:19:07.3386651-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h03.png</Source>
+      <Name>h03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\h03.xnb</Output>
+      <Time>2019-12-09T19:19:07.3406615-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h04.png</Source>
+      <Name>h04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\h04.xnb</Output>
+      <Time>2019-12-09T19:19:07.3416576-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h05.png</Source>
+      <Name>h05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\h05.xnb</Output>
+      <Time>2019-12-09T19:19:07.3426546-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h06.png</Source>
+      <Name>h06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\h06.xnb</Output>
+      <Time>2019-12-09T19:19:07.3436522-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h07.png</Source>
+      <Name>h07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\h07.xnb</Output>
+      <Time>2019-12-09T19:19:07.3456471-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h08.png</Source>
+      <Name>h08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\h08.xnb</Output>
+      <Time>2019-12-09T19:19:07.346644-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h09.png</Source>
+      <Name>h09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\h09.xnb</Output>
+      <Time>2019-12-09T19:19:07.3476422-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h10.png</Source>
+      <Name>h10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\h10.xnb</Output>
+      <Time>2019-12-09T19:19:07.3486396-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h11.png</Source>
+      <Name>h11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\h11.xnb</Output>
+      <Time>2019-12-09T19:19:07.350634-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h12.png</Source>
+      <Name>h12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\h12.xnb</Output>
+      <Time>2019-12-09T19:19:07.3516309-06:00</Time>
+    </Item>
+    <Item>
+      <Source>h13.png</Source>
+      <Name>h13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\h13.xnb</Output>
+      <Time>2019-12-09T19:19:07.3536258-06:00</Time>
+    </Item>
+    <Item>
+      <Source>s01.png</Source>
+      <Name>s01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\s01.xnb</Output>
+      <Time>2019-12-09T19:19:07.3546227-06:00</Time>
+    </Item>
+    <Item>
+      <Source>s02.png</Source>
+      <Name>s02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\s02.xnb</Output>
+      <Time>2019-12-09T19:19:07.3556199-06:00</Time>
+    </Item>
+    <Item>
+      <Source>s03.png</Source>
+      <Name>s03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\s03.xnb</Output>
+      <Time>2019-12-09T19:19:07.3576152-06:00</Time>
+    </Item>
+    <Item>
+      <Source>s04.png</Source>
+      <Name>s04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\s04.xnb</Output>
+      <Time>2019-12-09T19:19:07.3586122-06:00</Time>
+    </Item>
+    <Item>
+      <Source>s05.png</Source>
+      <Name>s05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\s05.xnb</Output>
+      <Time>2019-12-09T19:19:07.3596098-06:00</Time>
+    </Item>
+    <Item>
+      <Source>s06.png</Source>
+      <Name>s06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\s06.xnb</Output>
+      <Time>2019-12-09T19:19:07.3606073-06:00</Time>
+    </Item>
+    <Item>
+      <Source>s07.png</Source>
+      <Name>s07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\s07.xnb</Output>
+      <Time>2019-12-09T19:19:07.3616045-06:00</Time>
+    </Item>
+    <Item>
+      <Source>s08.png</Source>
+      <Name>s08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\s08.xnb</Output>
+      <Time>2019-12-09T19:19:07.3626011-06:00</Time>
+    </Item>
+    <Item>
+      <Source>s09.png</Source>
+      <Name>s09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\s09.xnb</Output>
+      <Time>2019-12-09T19:19:07.364596-06:00</Time>
+    </Item>
+    <Item>
+      <Source>s10.png</Source>
+      <Name>s10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\s10.xnb</Output>
+      <Time>2019-12-09T19:19:07.3655934-06:00</Time>
+    </Item>
+    <Item>
+      <Source>s11.png</Source>
+      <Name>s11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\s11.xnb</Output>
+      <Time>2019-12-09T19:19:07.3665908-06:00</Time>
+    </Item>
+    <Item>
+      <Source>s12.png</Source>
+      <Name>s12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\s12.xnb</Output>
+      <Time>2019-12-09T19:19:07.3675878-06:00</Time>
+    </Item>
+    <Item>
+      <Source>s13.png</Source>
+      <Name>s13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\s13.xnb</Output>
+      <Time>2019-12-09T19:19:07.3695829-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2019-12-09T19:31:23.4035113-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7756E3E1-17F7-4302-B29C-FB3348653BAD}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\WarContent\</RootDirectory>
+      <LoggerRootDirectory>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\</LoggerRootDirectory>
+      <IntermediateDirectory>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>S:\Users\Sooraj\Desktop\Sooraj Karthik - Sprint 5\War\War\War\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-09-10T17:11:43.0809587-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

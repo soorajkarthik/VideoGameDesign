@@ -1,0 +1,2 @@
+F:\Code\Visual Studio Projects\Sprint 8\JourneyToBabel\JourneyToBabel\JourneyToBabelContent\obj\x86\Debug\JourneyToBabelContent.contentprojResolveAssemblyReference.cache
+D:\Code\Visual Studio Projects\Sprint 8\JourneyToBabel\JourneyToBabel\JourneyToBabelContent\obj\x86\Debug\JourneyToBabelContent.contentprojResolveAssemblyReference.cache

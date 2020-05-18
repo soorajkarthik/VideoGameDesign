@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BigMovingObj.png</Source>
+      <Name>BigMovingObj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\SideKick\SideKick\SideKick\bin\x86\Debug\Content\BigMovingObj.xnb</Output>
+      <Time>2019-10-31T12:04:33.5481067-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SmallMovingObj.png</Source>
+      <Name>SmallMovingObj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\SideKick\SideKick\SideKick\bin\x86\Debug\Content\SmallMovingObj.xnb</Output>
+      <Time>2019-10-31T12:04:33.5510984-05:00</Time>
+    </Item>
+    <Item>
+      <Source>StationaryObj.png</Source>
+      <Name>StationaryObj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\SideKick\SideKick\SideKick\bin\x86\Debug\Content\StationaryObj.xnb</Output>
+      <Time>2019-10-31T12:04:33.5534187-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{26EB6094-144F-4576-8CD4-C34259B0A7B1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\SideKick\SideKick\SideKickContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\SideKick\SideKick\SideKick\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\SideKick\SideKick\SideKick\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\SideKick\SideKick\SideKick\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-04-04T09:45:30.5725129-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Space Invaders 1.png</Source>
+      <Name>Space Invaders 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 7\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\Space Invaders 1.xnb</Output>
+      <Time>2020-01-21T19:17:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Space Invaders 2.png</Source>
+      <Name>Space Invaders 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 7\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\Space Invaders 2.xnb</Output>
+      <Time>2020-01-21T19:17:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Space Invaders 3.png</Source>
+      <Name>Space Invaders 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 7\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\Space Invaders 3.xnb</Output>
+      <Time>2020-01-21T19:17:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Space Invaders 4.png</Source>
+      <Name>Space Invaders 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 7\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\Space Invaders 4.xnb</Output>
+      <Time>2020-01-21T19:17:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Space Invaders 5.png</Source>
+      <Name>Space Invaders 5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 7\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\Space Invaders 5.xnb</Output>
+      <Time>2020-01-21T19:17:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Space Invaders 6.png</Source>
+      <Name>Space Invaders 6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 7\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\Space Invaders 6.xnb</Output>
+      <Time>2020-01-21T19:17:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Space Invaders 7.png</Source>
+      <Name>Space Invaders 7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 7\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\Space Invaders 7.xnb</Output>
+      <Time>2020-01-21T19:17:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Space Invaders 8.png</Source>
+      <Name>Space Invaders 8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 7\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\Space Invaders 8.xnb</Output>
+      <Time>2020-01-21T19:17:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SI Homeworld.wav</Source>
+      <Name>SI Homeworld</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 7\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\SI Homeworld.xnb</Output>
+      <Time>2020-01-21T19:22:38-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{213CBE12-5C81-4818-8EE3-DE30C5208B87}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 7\SpaceInvaders\SpaceInvaders\SpaceInvadersContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 7\SpaceInvaders\SpaceInvaders\SpaceInvaders\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 7\SpaceInvaders\SpaceInvaders\SpaceInvaders\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 7\SpaceInvaders\SpaceInvaders\SpaceInvaders\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-04-04T09:45:30.5725129-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

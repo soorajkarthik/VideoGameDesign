@@ -1,0 +1,641 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Tiles\0.bmp</Source>
+      <Name>Tiles\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\0.xnb</Output>
+      <Time>2020-02-18T18:15:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\1.bmp</Source>
+      <Name>Tiles\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\1.xnb</Output>
+      <Time>2020-02-18T18:15:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\2.bmp</Source>
+      <Name>Tiles\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\2.xnb</Output>
+      <Time>2020-02-18T18:15:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\3.bmp</Source>
+      <Name>Tiles\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\3.xnb</Output>
+      <Time>2020-02-18T18:15:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\4.bmp</Source>
+      <Name>Tiles\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\4.xnb</Output>
+      <Time>2020-02-18T18:15:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\5.bmp</Source>
+      <Name>Tiles\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\5.xnb</Output>
+      <Time>2020-02-18T18:15:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\6.bmp</Source>
+      <Name>Tiles\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\6.xnb</Output>
+      <Time>2020-02-18T18:15:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Gingerbread Man.png</Source>
+      <Name>Gingerbread Man</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Gingerbread Man.xnb</Output>
+      <Time>2020-02-18T18:15:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\7.bmp</Source>
+      <Name>Tiles\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\7.xnb</Output>
+      <Time>2020-02-18T18:15:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\8.bmp</Source>
+      <Name>Tiles\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\8.xnb</Output>
+      <Time>2020-02-18T18:15:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\9.bmp</Source>
+      <Name>Tiles\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\9.xnb</Output>
+      <Time>2020-02-18T18:15:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\10.bmp</Source>
+      <Name>Tiles\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\10.xnb</Output>
+      <Time>2020-02-18T18:15:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\11.bmp</Source>
+      <Name>Tiles\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\11.xnb</Output>
+      <Time>2020-02-18T18:15:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\12.bmp</Source>
+      <Name>Tiles\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\12.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\13.bmp</Source>
+      <Name>Tiles\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\13.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\14.bmp</Source>
+      <Name>Tiles\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\14.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\15.bmp</Source>
+      <Name>Tiles\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\15.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\16.bmp</Source>
+      <Name>Tiles\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\16.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\17.bmp</Source>
+      <Name>Tiles\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\17.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\18.bmp</Source>
+      <Name>Tiles\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\18.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\19.bmp</Source>
+      <Name>Tiles\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\19.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\20.bmp</Source>
+      <Name>Tiles\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\20.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\21.bmp</Source>
+      <Name>Tiles\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\21.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\22.bmp</Source>
+      <Name>Tiles\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\22.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\23.bmp</Source>
+      <Name>Tiles\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\23.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\24.bmp</Source>
+      <Name>Tiles\24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\24.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\25.bmp</Source>
+      <Name>Tiles\25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\25.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\26.bmp</Source>
+      <Name>Tiles\26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\26.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\27.bmp</Source>
+      <Name>Tiles\27</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\27.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\28.bmp</Source>
+      <Name>Tiles\28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\28.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\29.bmp</Source>
+      <Name>Tiles\29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\29.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\30.bmp</Source>
+      <Name>Tiles\30</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\30.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\31.bmp</Source>
+      <Name>Tiles\31</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\31.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\32.bmp</Source>
+      <Name>Tiles\32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\32.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\33.bmp</Source>
+      <Name>Tiles\33</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\33.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\34.bmp</Source>
+      <Name>Tiles\34</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\34.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\35.bmp</Source>
+      <Name>Tiles\35</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\35.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\36.bmp</Source>
+      <Name>Tiles\36</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\36.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\37.bmp</Source>
+      <Name>Tiles\37</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\37.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\38.bmp</Source>
+      <Name>Tiles\38</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\38.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\39.bmp</Source>
+      <Name>Tiles\39</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\39.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\40.bmp</Source>
+      <Name>Tiles\40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\40.xnb</Output>
+      <Time>2020-02-18T18:15:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\41.bmp</Source>
+      <Name>Tiles\41</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\41.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\42.bmp</Source>
+      <Name>Tiles\42</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\42.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\43.bmp</Source>
+      <Name>Tiles\43</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\43.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\44.bmp</Source>
+      <Name>Tiles\44</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\44.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\45.bmp</Source>
+      <Name>Tiles\45</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\45.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\46.bmp</Source>
+      <Name>Tiles\46</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\46.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\47.bmp</Source>
+      <Name>Tiles\47</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\47.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\48.bmp</Source>
+      <Name>Tiles\48</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\48.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\49.bmp</Source>
+      <Name>Tiles\49</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\49.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\50.bmp</Source>
+      <Name>Tiles\50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\50.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\51.bmp</Source>
+      <Name>Tiles\51</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\51.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\52.bmp</Source>
+      <Name>Tiles\52</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\52.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\53.bmp</Source>
+      <Name>Tiles\53</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\53.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\54.bmp</Source>
+      <Name>Tiles\54</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\54.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\55.bmp</Source>
+      <Name>Tiles\55</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\55.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\56.bmp</Source>
+      <Name>Tiles\56</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\56.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\57.bmp</Source>
+      <Name>Tiles\57</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\57.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\58.bmp</Source>
+      <Name>Tiles\58</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\58.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\59.bmp</Source>
+      <Name>Tiles\59</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\59.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\60.bmp</Source>
+      <Name>Tiles\60</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\60.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\61.bmp</Source>
+      <Name>Tiles\61</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\61.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\62.bmp</Source>
+      <Name>Tiles\62</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\62.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\63.bmp</Source>
+      <Name>Tiles\63</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\63.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\64.bmp</Source>
+      <Name>Tiles\64</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\Tiles\64.xnb</Output>
+      <Time>2020-02-18T18:15:42-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{02D8F25E-A24F-4595-958A-640106FD8213}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawlerContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Code\Visual Studio Projects\Sprint 8\DungeonCrawler\DungeonCrawler\DungeonCrawler\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-04-04T09:45:30.5725129-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

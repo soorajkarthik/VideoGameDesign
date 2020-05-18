@@ -1,0 +1,5 @@
+Content\borg.xnb
+Content\empty.xnb
+Content\turret.xnb
+Content\emptyBar.xnb
+Content\SpriteFont1.xnb

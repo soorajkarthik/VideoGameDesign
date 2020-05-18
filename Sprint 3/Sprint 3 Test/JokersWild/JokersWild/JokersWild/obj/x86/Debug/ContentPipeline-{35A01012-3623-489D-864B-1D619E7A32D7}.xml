@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>10ofSpades.png</Source>
+      <Name>10ofSpades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\10ofSpades.xnb</Output>
+      <Time>2019-10-25T11:45:01.6752652-05:00</Time>
+    </Item>
+    <Item>
+      <Source>AceofDiamonds.png</Source>
+      <Name>AceofDiamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\AceofDiamonds.xnb</Output>
+      <Time>2019-10-25T11:45:01.6752652-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Card Back.png</Source>
+      <Name>Card Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\Card Back.xnb</Output>
+      <Time>2019-10-25T11:45:01.6909149-05:00</Time>
+    </Item>
+    <Item>
+      <Source>JackofHearts.png</Source>
+      <Name>JackofHearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\JackofHearts.xnb</Output>
+      <Time>2019-10-25T11:45:01.6909149-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Joker#1.png</Source>
+      <Name>Joker#1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\Joker#1.xnb</Output>
+      <Time>2019-10-25T11:45:01.6909149-05:00</Time>
+    </Item>
+    <Item>
+      <Source>foghorn.wav</Source>
+      <Name>foghorn</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\foghorn.xnb</Output>
+      <Time>2019-10-25T11:45:24.5185621-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Ovation.wav</Source>
+      <Name>Ovation</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\Ovation.xnb</Output>
+      <Time>2019-10-25T11:45:24.5185621-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2019-10-25T12:07:01.4956613-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{35A01012-3623-489D-864B-1D619E7A32D7}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWildContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-04-04T09:45:30.5725129-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

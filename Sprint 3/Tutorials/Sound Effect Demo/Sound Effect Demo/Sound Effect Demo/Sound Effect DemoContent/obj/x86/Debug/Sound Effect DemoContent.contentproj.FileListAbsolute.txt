@@ -1,0 +1,2 @@
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect DemoContent\obj\x86\Debug\Sound Effect DemoContent.contentprojResolveAssemblyReference.cache
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\Sound Effect DemoContent\obj\x86\Debug\Sound Effect DemoContent.contentprojResolveAssemblyReference.cache

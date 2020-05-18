@@ -1,0 +1,2 @@
+F:\Code\Visual Studio Projects\Sprint 8\NumberWrite\NumberWrite\NumberWriteContent\obj\x86\Debug\NumberWriteContent.contentprojResolveAssemblyReference.cache
+D:\Code\Visual Studio Projects\Sprint 8\NumberWrite\NumberWrite\NumberWriteContent\obj\x86\Debug\NumberWriteContent.contentprojResolveAssemblyReference.cache

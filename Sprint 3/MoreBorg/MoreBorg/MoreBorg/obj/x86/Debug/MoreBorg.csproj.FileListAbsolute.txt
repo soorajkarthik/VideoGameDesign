@@ -1,0 +1,63 @@
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.csprojResolveAssemblyReference.cache
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\borg.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\empty.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\turret.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\MoreBorg.exe
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\MoreBorg.pdb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.exe
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.pdb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.csprojResolveAssemblyReference.cache
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.pdb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\borg.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\empty.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\turret.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\MoreBorg.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\MoreBorg.pdb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\emptyBar.xnb
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\borg.xnb
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\empty.xnb
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\turret.xnb
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\emptyBar.xnb
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\MoreBorg.exe
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\MoreBorg.pdb
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.csprojResolveAssemblyReference.cache
+F:\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.exe
+F:\MoreBorg\MoreBorg\MoreBorg\obj\x86\Debug\MoreBorg.pdb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MoreBorg\MoreBorg\MoreBorg\bin\x86\Debug\Content\emptyBar.xnb

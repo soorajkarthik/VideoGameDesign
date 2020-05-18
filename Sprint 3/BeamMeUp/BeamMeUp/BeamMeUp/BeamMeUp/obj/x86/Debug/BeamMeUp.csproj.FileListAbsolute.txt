@@ -1,0 +1,120 @@
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\alert10.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\autodestructsequencearmed_ep.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\borg_cut_clean.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\commandcodesverified_ep.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\ds9_door.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\klingon_torpedo_clean.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\startrek.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\BeamMeUp.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\BeamMeUp.pdb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.csprojResolveAssemblyReference.cache
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.pdb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\alert10.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\autodestructsequencearmed_ep.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\borg_cut_clean.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\commandcodesverified_ep.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\ds9_door.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\klingon_torpedo_clean.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\startrek.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\SpriteFont1.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\BeamMeUp.exe
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\BeamMeUp.pdb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.csprojResolveAssemblyReference.cache
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.exe
+S:\Users\Sooraj\Desktop\Visual Studio Projects\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.pdb
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\alert10.xnb
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\autodestructsequencearmed_ep.xnb
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\borg_cut_clean.xnb
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\commandcodesverified_ep.xnb
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\ds9_door.xnb
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\klingon_torpedo_clean.xnb
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\startrek.xnb
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\BeamMeUp.exe
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\BeamMeUp.pdb
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.csprojResolveAssemblyReference.cache
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.exe
+F:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.pdb
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\alert10.xnb
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\autodestructsequencearmed_ep.xnb
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\borg_cut_clean.xnb
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\commandcodesverified_ep.xnb
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\ds9_door.xnb
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\klingon_torpedo_clean.xnb
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\startrek.xnb
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\BeamMeUp.exe
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\BeamMeUp.pdb
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.csprojResolveAssemblyReference.cache
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.exe
+D:\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.pdb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\alert10.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\autodestructsequencearmed_ep.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\borg_cut_clean.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\commandcodesverified_ep.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\ds9_door.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\klingon_torpedo_clean.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\startrek.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\BeamMeUp.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\BeamMeUp.pdb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.csprojResolveAssemblyReference.cache
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\BeamMeUp\BeamMeUp\BeamMeUp\BeamMeUp\obj\x86\Debug\BeamMeUp.pdb

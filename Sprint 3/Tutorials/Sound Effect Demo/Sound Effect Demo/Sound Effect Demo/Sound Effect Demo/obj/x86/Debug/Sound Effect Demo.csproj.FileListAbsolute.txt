@@ -1,0 +1,18 @@
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Content\launch.xnb
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Content\right.xnb
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Content\wrong.xnb
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Sound Effect Demo.exe
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Sound Effect Demo.pdb
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Sound Effect Demo.csprojResolveAssemblyReference.cache
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Sound Effect Demo.exe
+C:\Users\pageg\Desktop\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Sound Effect Demo.pdb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Content\launch.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Content\right.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Content\wrong.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Sound Effect Demo.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\bin\x86\Debug\Sound Effect Demo.pdb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Sound Effect Demo.csprojResolveAssemblyReference.cache
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Sound Effect Demo.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\Sound Effect Demo\obj\x86\Debug\Sound Effect Demo.pdb

@@ -1,0 +1,2 @@
+C:\Users\pageg\Desktop\Robot\Robot\RobotContent\obj\x86\Debug\RobotContent.contentprojResolveAssemblyReference.cache
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Robot\Robot\RobotContent\obj\x86\Debug\RobotContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>borg.png</Source>
+      <Name>borg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\borg.xnb</Output>
+      <Time>2019-10-15T18:34:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>empty.png</Source>
+      <Name>empty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\empty.xnb</Output>
+      <Time>2019-10-15T18:34:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>emptyBar.jpg</Source>
+      <Name>emptyBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\emptyBar.xnb</Output>
+      <Time>2019-10-15T18:34:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>turret.png</Source>
+      <Name>turret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\turret.xnb</Output>
+      <Time>2019-10-15T18:34:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2019-10-15T18:53:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2019-10-15T18:34:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>klingon_torpedo_clean.wav</Source>
+      <Name>klingon_torpedo_clean</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\klingon_torpedo_clean.xnb</Output>
+      <Time>2019-10-15T21:22:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tos_chirp_2.wav</Source>
+      <Name>tos_chirp_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tos_chirp_2.xnb</Output>
+      <Time>2019-10-15T21:22:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tos_dilithium_burnout.wav</Source>
+      <Name>tos_dilithium_burnout</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tos_dilithium_burnout.xnb</Output>
+      <Time>2019-10-15T21:23:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tos_phaser_ricochet.wav</Source>
+      <Name>tos_phaser_ricochet</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tos_phaser_ricochet.xnb</Output>
+      <Time>2019-10-15T21:23:34-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{603902BA-472C-40B4-9B74-04B619623E78}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorgContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-04-04T09:45:30.5725129-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

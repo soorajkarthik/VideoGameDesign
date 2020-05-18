@@ -1,0 +1,3 @@
+Content\SpriteFont1.xnb
+Content\anything.txt
+Content\numbers.txt

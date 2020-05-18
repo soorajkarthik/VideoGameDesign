@@ -1,0 +1,48 @@
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\10ofSpades.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\AceofDiamonds.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\Card Back.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\JackofHearts.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\Joker#1.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\foghorn.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\Ovation.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\JokersWild.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\JokersWild.pdb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\obj\x86\Debug\JokersWild.csprojResolveAssemblyReference.cache
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\obj\x86\Debug\JokersWild.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 4\Test\JokersWild\JokersWild\JokersWild\obj\x86\Debug\JokersWild.pdb
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\10ofSpades.xnb
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\AceofDiamonds.xnb
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\Card Back.xnb
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\JackofHearts.xnb
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\Joker#1.xnb
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\foghorn.xnb
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\Ovation.xnb
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\JokersWild.exe
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\JokersWild.pdb
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\obj\x86\Debug\JokersWild.csprojResolveAssemblyReference.cache
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\obj\x86\Debug\JokersWild.exe
+C:\Users\215566\Desktop\Sooaj Karthik - Sprint 3 Test\JokersWild\JokersWild\JokersWild\obj\x86\Debug\JokersWild.pdb

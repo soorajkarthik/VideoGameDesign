@@ -1,0 +1,6 @@
+Content\b.xnb
+Content\blue.xnb
+Content\o.xnb
+Content\orange.xnb
+Content\w.xnb
+Content\SpriteFont1.xnb

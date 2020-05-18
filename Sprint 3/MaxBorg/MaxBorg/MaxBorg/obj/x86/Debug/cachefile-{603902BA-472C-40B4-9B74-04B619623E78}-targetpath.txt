@@ -1,0 +1,10 @@
+Content\borg.xnb
+Content\empty.xnb
+Content\emptyBar.xnb
+Content\turret.xnb
+Content\explosion.xnb
+Content\SpriteFont1.xnb
+Content\klingon_torpedo_clean.xnb
+Content\tos_chirp_2.xnb
+Content\tos_dilithium_burnout.xnb
+Content\tos_phaser_ricochet.xnb

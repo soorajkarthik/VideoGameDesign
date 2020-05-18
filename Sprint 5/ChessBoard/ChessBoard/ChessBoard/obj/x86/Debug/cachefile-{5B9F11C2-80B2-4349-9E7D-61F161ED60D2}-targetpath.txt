@@ -1,0 +1,13 @@
+Content\bb.xnb
+Content\bc.xnb
+Content\bki.xnb
+Content\bkn.xnb
+Content\board.xnb
+Content\bp.xnb
+Content\bq.xnb
+Content\wb.xnb
+Content\wc.xnb
+Content\wki.xnb
+Content\wkn.xnb
+Content\wp.xnb
+Content\wq.xnb

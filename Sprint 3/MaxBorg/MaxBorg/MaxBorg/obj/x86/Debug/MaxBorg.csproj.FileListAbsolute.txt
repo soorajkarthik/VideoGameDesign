@@ -1,0 +1,78 @@
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.csprojResolveAssemblyReference.cache
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\MaxBorg.exe
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\MaxBorg.pdb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.exe
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.pdb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\borg.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\empty.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\emptyBar.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\turret.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\SpriteFont1.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\explosion.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\klingon_torpedo_clean.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tos_chirp_2.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tos_dilithium_burnout.xnb
+S:\Users\Sooraj\Desktop\Visual Studio Projects\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tos_phaser_ricochet.xnb
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\borg.xnb
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\empty.xnb
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\emptyBar.xnb
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\turret.xnb
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\explosion.xnb
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\klingon_torpedo_clean.xnb
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tos_chirp_2.xnb
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tos_dilithium_burnout.xnb
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tos_phaser_ricochet.xnb
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\MaxBorg.exe
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\MaxBorg.pdb
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.csprojResolveAssemblyReference.cache
+F:\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.exe
+F:\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.pdb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\borg.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\empty.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\emptyBar.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\turret.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\explosion.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\klingon_torpedo_clean.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tos_chirp_2.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tos_dilithium_burnout.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Content\tos_phaser_ricochet.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\MaxBorg.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\MaxBorg.pdb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.csprojResolveAssemblyReference.cache
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\MaxBorg\MaxBorg\MaxBorg\obj\x86\Debug\MaxBorg.pdb

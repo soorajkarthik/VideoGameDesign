@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A87403EB-5E55-424F-99DC-541983B8B93D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Code\Visual Studio Projects\Sprint 8\NumberWrite\NumberWrite\NumberWriteContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Code\Visual Studio Projects\Sprint 8\NumberWrite\NumberWrite\NumberWrite\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Code\Visual Studio Projects\Sprint 8\NumberWrite\NumberWrite\NumberWrite\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Code\Visual Studio Projects\Sprint 8\NumberWrite\NumberWrite\NumberWrite\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-04-04T09:45:30.5725129-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

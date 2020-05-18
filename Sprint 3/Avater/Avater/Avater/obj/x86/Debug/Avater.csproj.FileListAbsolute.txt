@@ -1,0 +1,22 @@
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Content\bearded man.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Content\bishop.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Content\cop.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Content\glasses.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Content\snow boy.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Content\empty.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Avater.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Avater.pdb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\obj\x86\Debug\Avater.csprojResolveAssemblyReference.cache
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\obj\x86\Debug\Avater.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Avater\Avater\Avater\obj\x86\Debug\Avater.pdb

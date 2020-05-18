@@ -1,0 +1,2 @@
+Content\empty.xnb
+Content\map.xnb

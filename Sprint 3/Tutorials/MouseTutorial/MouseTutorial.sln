@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseTutorial", "MouseTutorial\MouseTutorial\MouseTutorial.csproj", "{BE66C154-6A27-4A5C-99CB-DF23A4004D69}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MouseTutorialContent", "MouseTutorial\MouseTutorialContent\MouseTutorialContent.contentproj", "{1F06037D-5B7E-4040-912E-2D4CADAED033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE66C154-6A27-4A5C-99CB-DF23A4004D69}.Debug|x86.ActiveCfg = Debug|x86
+		{BE66C154-6A27-4A5C-99CB-DF23A4004D69}.Debug|x86.Build.0 = Debug|x86
+		{BE66C154-6A27-4A5C-99CB-DF23A4004D69}.Release|x86.ActiveCfg = Release|x86
+		{BE66C154-6A27-4A5C-99CB-DF23A4004D69}.Release|x86.Build.0 = Release|x86
+		{1F06037D-5B7E-4040-912E-2D4CADAED033}.Debug|x86.ActiveCfg = Debug|x86
+		{1F06037D-5B7E-4040-912E-2D4CADAED033}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

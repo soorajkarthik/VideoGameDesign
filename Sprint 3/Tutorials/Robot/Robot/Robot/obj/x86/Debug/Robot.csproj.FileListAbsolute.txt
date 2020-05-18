@@ -1,0 +1,14 @@
+C:\Users\pageg\Desktop\Robot\Robot\Robot\bin\x86\Debug\Content\robot.xnb
+C:\Users\pageg\Desktop\Robot\Robot\Robot\bin\x86\Debug\Robot.exe
+C:\Users\pageg\Desktop\Robot\Robot\Robot\bin\x86\Debug\Robot.pdb
+C:\Users\pageg\Desktop\Robot\Robot\Robot\obj\x86\Debug\Robot.csprojResolveAssemblyReference.cache
+C:\Users\pageg\Desktop\Robot\Robot\Robot\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pageg\Desktop\Robot\Robot\Robot\obj\x86\Debug\Robot.exe
+C:\Users\pageg\Desktop\Robot\Robot\Robot\obj\x86\Debug\Robot.pdb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Robot\Robot\Robot\bin\x86\Debug\Content\robot.xnb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Robot\Robot\Robot\bin\x86\Debug\Robot.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Robot\Robot\Robot\bin\x86\Debug\Robot.pdb
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Robot\Robot\Robot\obj\x86\Debug\Robot.csprojResolveAssemblyReference.cache
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Robot\Robot\Robot\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Robot\Robot\Robot\obj\x86\Debug\Robot.exe
+C:\Users\215566\Desktop\Visual Studio Projects\Sprint 3\Robot\Robot\Robot\obj\x86\Debug\Robot.pdb
